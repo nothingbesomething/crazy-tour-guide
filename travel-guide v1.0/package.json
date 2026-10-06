@@ -1,0 +1,1 @@
+{"name":"sankai-japan-guide","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node --env-file-if-exists=.env --env-file-if-exists=.env.gemini server.mjs","build":"node build.mjs","test":"node --test src/api.test.mjs"}}
