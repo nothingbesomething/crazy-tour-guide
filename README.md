@@ -32,8 +32,6 @@
 
 只想看看页面，直接打开 `Japan-travel-preview.html` 就行，预览文件不能使用 AI 搜索。
 
-AI 给出的预算和行程仅供参考，出发前记得确认实际信息。Gemini 繁忙时可能需要稍后重试。
-
 ---
 
 ## English
@@ -69,5 +67,3 @@ Get a key at https://aistudio.google.com/apikey .
 Save the file and restart `npm run dev`. Don’t upload your key file to GitHub. On Mac, press Command + Shift + . to show hidden files.
 
 To preview the design, just open `Japan-travel-preview.html`. AI search is unavailable in the standalone preview.
-
-AI budgets and itineraries are rough suggestions, so check the details before your trip. If Gemini is busy, try again later.
