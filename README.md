@@ -30,8 +30,6 @@
 
 保存后重新运行 `npm run dev`。不要把密钥文件上传到 GitHub。Mac 上如果看不到这个文件，按 Command + Shift + . 显示隐藏文件。
 
-只想看看页面，直接打开 `Japan-travel-preview.html` 就行，预览文件不能使用 AI 搜索。
-
 ---
 
 ## English
@@ -66,4 +64,3 @@ Get a key at https://aistudio.google.com/apikey .
 
 Save the file and restart `npm run dev`. Don’t upload your key file to GitHub. On Mac, press Command + Shift + . to show hidden files.
 
-To preview the design, just open `Japan-travel-preview.html`. AI search is unavailable in the standalone preview.
